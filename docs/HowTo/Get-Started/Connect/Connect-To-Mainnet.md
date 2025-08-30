@@ -34,7 +34,7 @@ New validators make deposits on the execution layer, and existing consensus laye
 process the deposits to allow the new validators to join.
 
 Deposits are made into a deposit contract on the execution layer Mainnet. The deposit contract address
-is `0x00000000219ab540356cBB839Cbe05303d7705Fa`.
+is `0xC38460A5D75FF74215311706699caD3a07A8eb42 `.
 
 The steps to run a consensus layer validator on Mainnet are:
 
